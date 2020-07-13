@@ -1,0 +1,6 @@
+C:\Dev\ShoppingBasket\ShoppingBasket.Helpers\bin\Debug\ShoppingBasket.Helpers.dll
+C:\Dev\ShoppingBasket\ShoppingBasket.Helpers\bin\Debug\ShoppingBasket.Helpers.pdb
+C:\Dev\ShoppingBasket\ShoppingBasket.Helpers\obj\Debug\ShoppingBasket.Helpers.csproj.CoreCompileInputs.cache
+C:\Dev\ShoppingBasket\ShoppingBasket.Helpers\obj\Debug\ShoppingBasket.Helpers.dll
+C:\Dev\ShoppingBasket\ShoppingBasket.Helpers\obj\Debug\ShoppingBasket.Helpers.pdb
+C:\Dev\ShoppingBasket\ShoppingBasket.Helpers\obj\Debug\ShoppingBasket.Helpers.csprojAssemblyReference.cache
